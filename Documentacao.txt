@@ -1,0 +1,3 @@
+por enquanto consegui gerar um "programa" que pega dados de algum arquivo csv(com cabeçalho)
+gera inserts para as 2 tabelas RUBRICAS_RH e EVENTOS_RH
+mas só com alguns campos "coringa"
